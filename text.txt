@@ -1,0 +1,14 @@
+Hola estoy editando con vim !!!
+
+Ah esto es otra cosa!
+
+Linea adicional.
+
+('Ellen','Brooks'),
+('Rafael','Villafaña'),
+('Belinda','Arrezola'),
+('Juan','Perez'),
+('Karla','Gomez')
+;
+
+
